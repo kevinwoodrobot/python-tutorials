@@ -1,0 +1,21 @@
+# Ignore Files 
+thumbnail.png
+timestamps.txt
+README_KW.md 
+demo.py 
+
+# Ignore File Types 
+*.mkv 
+*.gslides
+*.pdf 
+*.pptx 
+*.png
+
+# Ignore Environments 
+opencvEnv
+pyenv36 
+
+# Ignore Folders 
+shorts 
+thumbnail 
+python-project-ideas

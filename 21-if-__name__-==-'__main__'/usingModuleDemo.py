@@ -1,0 +1,2 @@
+from myModuleDemo import * 
+myCoolFunction() 
